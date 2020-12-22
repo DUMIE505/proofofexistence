@@ -58,7 +58,7 @@
     "jsdom": "^9.9.1",
     "level": "^2.0.0",
     "lodash": "^4.0.0",
-    "modernizr": "^3.5.0",
+    "modernizr": "^3.7.0",
     "moment": "^2.24.0",
     "morgan": "^1.9.0",
     "nodemailer": "^4.7.0",
